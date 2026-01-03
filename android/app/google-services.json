@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688587624616",
+    "project_id": "travel-planner-b65d2",
+    "storage_bucket": "travel-planner-b65d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688587624616:android:59b20305650385d330729d",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688587624616-vjqolnil401vaovt0kvtji0v7dhd3rmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frontend",
+            "certificate_hash": "04cd5b2820ed2eba040937fcd20c7e09a6d4851d"
+          }
+        },
+        {
+          "client_id": "688587624616-td592h2agj9rmnpkm7d905bjupbibjlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXC-6oQ56MRb33uR393qmboegkUAgmJF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688587624616-td592h2agj9rmnpkm7d905bjupbibjlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

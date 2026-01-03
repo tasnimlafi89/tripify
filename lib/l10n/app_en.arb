@@ -1,0 +1,489 @@
+{
+  "@@locale": "en",
+  "account": "Account",
+  "appTitle": "Travel Planner",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "welcomeBack": "Welcome back,",
+  "@welcomeBack": {
+    "description": "Greeting message on home screen"
+  },
+
+  "traveler": "Traveler",
+  "@traveler": {
+    "description": "Default user name"
+  },
+
+  "searchPlaceholder": "Where do you want to go?",
+  "@searchPlaceholder": {
+    "description": "Search bar placeholder text"
+  },
+
+  "quickActions": "Quick Actions",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+
+  "flights": "Flights",
+  "@flights": {
+    "description": "Flights action label"
+  },
+
+  "hotels": "Hotels",
+  "@hotels": {
+    "description": "Hotels action label"
+  },
+
+  "cars": "Cars",
+  "@cars": {
+    "description": "Cars action label"
+  },
+
+  "food": "Food",
+  "@food": {
+    "description": "Food action label"
+  },
+
+  "featuredDestinations": "Featured Destinations",
+  "@featuredDestinations": {
+    "description": "Featured destinations section title"
+  },
+
+  "seeAll": "See all",
+  "@seeAll": {
+    "description": "See all button text"
+  },
+
+  "aiPowered": "AI Powered",
+  "@aiPowered": {
+    "description": "AI powered badge text"
+  },
+
+  "smartTripPlanner": "Smart Trip Planner",
+  "@smartTripPlanner": {
+    "description": "AI planner card title"
+  },
+
+  "createPerfectItinerary": "Create your perfect itinerary in seconds",
+  "@createPerfectItinerary": {
+    "description": "AI planner card description"
+  },
+
+  "planNow": "Plan Now",
+  "@planNow": {
+    "description": "Plan now button text"
+  },
+
+  "popularThisMonth": "Popular This Month",
+  "@popularThisMonth": {
+    "description": "Popular destinations section title"
+  },
+
+  "trips": "trips",
+  "@trips": {
+    "description": "Trips count suffix"
+  },
+
+  "explore": "Explore",
+  "@explore": {
+    "description": "Explore tab title"
+  },
+
+  "discoverDestinations": "Discover amazing destinations",
+  "@discoverDestinations": {
+    "description": "Explore tab subtitle"
+  },
+
+  "searchDestinations": "Search destinations...",
+  "@searchDestinations": {
+    "description": "Search destinations placeholder"
+  },
+
+  "all": "All",
+  "@all": {
+    "description": "All category"
+  },
+
+  "beach": "Beach",
+  "@beach": {
+    "description": "Beach category"
+  },
+
+  "mountain": "Mountain",
+  "@mountain": {
+    "description": "Mountain category"
+  },
+
+  "city": "City",
+  "@city": {
+    "description": "City category"
+  },
+
+  "adventure": "Adventure",
+  "@adventure": {
+    "description": "Adventure category"
+  },
+
+  "myTrips": "My Trips",
+  "@myTrips": {
+    "description": "My trips tab title"
+  },
+
+  "yourUpcomingAdventures": "Your upcoming adventures",
+  "@yourUpcomingAdventures": {
+    "description": "Trips tab subtitle"
+  },
+
+  "upcoming": "Upcoming",
+  "@upcoming": {
+    "description": "Upcoming tab"
+  },
+
+  "ongoing": "Ongoing",
+  "@ongoing": {
+    "description": "Ongoing tab"
+  },
+
+  "past": "Past",
+  "@past": {
+    "description": "Past tab"
+  },
+
+  "noActiveTrips": "No Active Trips",
+  "@noActiveTrips": {
+    "description": "No active trips message"
+  },
+
+  "ongoingTripsWillAppear": "Your ongoing trips will appear here",
+  "@ongoingTripsWillAppear": {
+    "description": "Ongoing trips empty state description"
+  },
+
+  "days": "days",
+  "@days": {
+    "description": "Days suffix"
+  },
+
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab title"
+  },
+
+  "premiumTraveler": "Premium Traveler",
+  "@premiumTraveler": {
+    "description": "Premium user badge"
+  },
+
+  "tripsCount": "Trips",
+  "@tripsCount": {
+    "description": "Trips stat label"
+  },
+
+  "countries": "Countries",
+  "@countries": {
+    "description": "Countries stat label"
+  },
+
+  "photos": "Photos",
+  "@photos": {
+    "description": "Photos stat label"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings section title"
+  },
+
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile menu item"
+  },
+
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications menu item"
+  },
+
+  "privacySecurity": "Privacy & Security",
+  "@privacySecurity": {
+    "description": "Privacy and security menu item"
+  },
+
+  "paymentMethods": "Payment Methods",
+  "@paymentMethods": {
+    "description": "Payment methods menu item"
+  },
+
+  "helpSupport": "Help & Support",
+  "@helpSupport": {
+    "description": "Help and support menu item"
+  },
+
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button"
+  },
+
+  "signOutConfirmation": "Are you sure you want to sign out?",
+  "@signOutConfirmation": {
+    "description": "Sign out confirmation message"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+
+  "viewProfile": "View Profile",
+  "@viewProfile": {
+    "description": "View profile menu item"
+  },
+
+  "comingSoon": "Coming Soon",
+  "@comingSoon": {
+    "description": "Coming soon message"
+  },
+
+  "featureComingSoon": "{feature} coming soon!",
+  "@featureComingSoon": {
+    "description": "Feature coming soon message",
+    "placeholders": {
+      "feature": {
+        "type": "String",
+        "example": "Payment Methods"
+      }
+    }
+  },
+
+  "bookFlights": "Book Flights",
+  "@bookFlights": {
+    "description": "Book flights page title"
+  },
+
+  "flightsDescription": "Search and book flights to destinations worldwide. Compare prices and find the best deals.",
+  "@flightsDescription": {
+    "description": "Flights page description"
+  },
+
+  "bookHotels": "Book Hotels",
+  "@bookHotels": {
+    "description": "Book hotels page title"
+  },
+
+  "hotelsDescription": "Find and book accommodations ranging from budget-friendly to luxury hotels.",
+  "@hotelsDescription": {
+    "description": "Hotels page description"
+  },
+
+  "rentCars": "Rent Cars",
+  "@rentCars": {
+    "description": "Rent cars page title"
+  },
+
+  "carsDescription": "Rent vehicles for your trips. Choose from economy to luxury cars.",
+  "@carsDescription": {
+    "description": "Cars page description"
+  },
+
+  "discoverFood": "Discover Food",
+  "@discoverFood": {
+    "description": "Discover food page title"
+  },
+
+  "foodDescription": "Find the best restaurants and local cuisine at your destination.",
+  "@foodDescription": {
+    "description": "Food page description"
+  },
+
+  "goBack": "Go Back",
+  "@goBack": {
+    "description": "Go back button"
+  },
+
+  "recentSearches": "Recent Searches",
+  "@recentSearches": {
+    "description": "Recent searches section title"
+  },
+
+  "popularDestinations": "Popular Destinations",
+  "@popularDestinations": {
+    "description": "Popular destinations section title"
+  },
+
+  "searchResults": "Search Results",
+  "@searchResults": {
+    "description": "Search results section title"
+  },
+
+  "markAllRead": "Mark all read",
+  "@markAllRead": {
+    "description": "Mark all notifications as read"
+  },
+
+  "today": "Today",
+  "@today": {
+    "description": "Today label"
+  },
+
+  "yesterday": "Yesterday",
+  "@yesterday": {
+    "description": "Yesterday label"
+  },
+
+  "name": "Name",
+  "@name": {
+    "description": "Name field label"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+
+  "phone": "Phone",
+  "@phone": {
+    "description": "Phone field label"
+  },
+
+  "bio": "Bio",
+  "@bio": {
+    "description": "Bio field label"
+  },
+
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save changes button"
+  },
+
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode setting"
+  },
+
+  "language": "Language",
+  "@language": {
+    "description": "Language setting"
+  },
+
+  "privacy": "Privacy",
+  "@privacy": {
+    "description": "Privacy setting"
+  },
+
+  "about": "About",
+  "@about": {
+    "description": "About setting"
+  },
+
+  "version": "Version",
+  "@version": {
+    "description": "Version label"
+  },
+
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button on onboarding"
+  },
+
+  "next": "Next",
+  "@next": {
+    "description": "Next button"
+  },
+
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button"
+  },
+
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button"
+  },
+
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+
+  "orContinueWith": "Or continue with",
+  "@orContinueWith": {
+    "description": "Social login separator text"
+  },
+
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Sign up prompt"
+  },
+
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Sign in prompt"
+  },
+
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+
+  "french": "French",
+  "@french": {
+    "description": "French language name"
+  },
+
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic language name"
+  },
+
+  "onboardingTitle1": "Explore the Future",
+  "@onboardingTitle1": {
+    "description": "First onboarding slide title"
+  },
+
+  "onboardingDesc1": "AI-powered travel planning that crafts your perfect journey in seconds",
+  "@onboardingDesc1": {
+    "description": "First onboarding slide description"
+  },
+
+  "onboardingTitle2": "Smart Itineraries",
+  "@onboardingTitle2": {
+    "description": "Second onboarding slide title"
+  },
+
+  "onboardingDesc2": "Personalized routes, real-time updates, and seamless booking all in one place",
+  "@onboardingDesc2": {
+    "description": "Second onboarding slide description"
+  },
+
+  "onboardingTitle3": "Travel Smarter",
+  "@onboardingTitle3": {
+    "description": "Third onboarding slide title"
+  },
+
+  "onboardingDesc3": "Your next adventure awaits — let's plan the trip of a lifetime",
+  "@onboardingDesc3": {
+    "description": "Third onboarding slide description"
+  }
+}
